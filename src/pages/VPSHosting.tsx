@@ -99,7 +99,7 @@ const VPSHosting = () => {
               <div className="p-4 md:p-6">
                 <h3 className="text-xl md:text-2xl font-bold mb-2">KVM Standard S</h3>
                 <div className="mb-4">
-                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$4.50</span>
+                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$6.50</span>
                   <span className="text-gray-400">/month</span>
                 </div>
                 <ul className="space-y-3 mb-6">
@@ -129,7 +129,7 @@ const VPSHosting = () => {
               <div className="p-4 md:p-6">
                 <h3 className="text-xl md:text-2xl font-bold mb-2">KVM Standard M</h3>
                 <div className="mb-4">
-                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$5.50</span>
+                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$8.50</span>
                   <span className="text-gray-400">/month</span>
                 </div>
                 <ul className="space-y-3 mb-6">
@@ -159,7 +159,7 @@ const VPSHosting = () => {
               <div className="p-4 md:p-6">
                 <h3 className="text-xl md:text-2xl font-bold mb-2">KVM Standard L</h3>
                 <div className="mb-4">
-                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$10.50</span>
+                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$12.50</span>
                   <span className="text-gray-400">/month</span>
                 </div>
                 <ul className="space-y-3 mb-6">
@@ -189,7 +189,7 @@ const VPSHosting = () => {
               <div className="p-4 md:p-6">
                 <h3 className="text-xl md:text-2xl font-bold mb-2">KVM Standard XL</h3>
                 <div className="mb-4">
-                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$15.50</span>
+                  <span className="text-2xl md:text-3xl font-bold text-purple-400">$18.50</span>
                   <span className="text-gray-400">/month</span>
                 </div>
                 <ul className="space-y-3 mb-6">
